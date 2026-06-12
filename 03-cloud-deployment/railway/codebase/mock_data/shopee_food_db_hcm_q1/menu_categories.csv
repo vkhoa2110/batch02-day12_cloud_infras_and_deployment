@@ -1,0 +1,165 @@
+﻿id,shop_id,name,display_order,is_active
+cat_001_01,shop_001,Cơm,1,1
+cat_001_02,shop_001,Canh,2,1
+cat_001_03,shop_001,Đồ uống,3,1
+cat_002_01,shop_002,Bún,1,1
+cat_002_02,shop_002,Món thêm,2,1
+cat_002_03,shop_002,Đồ uống,3,1
+cat_003_01,shop_003,Gà rán,1,1
+cat_003_02,shop_003,Cơm,2,1
+cat_003_03,shop_003,Ăn vặt,3,1
+cat_003_04,shop_003,Combo,4,1
+cat_004_01,shop_004,Healthy Bowl,1,1
+cat_004_02,shop_004,Salad,2,1
+cat_004_03,shop_004,Đồ uống,3,1
+cat_005_01,shop_005,Mì,1,1
+cat_005_02,shop_005,Ăn vặt,2,1
+cat_005_03,shop_005,Đồ uống,3,1
+cat_006_01,shop_006,Bánh mì,1,1
+cat_006_02,shop_006,Đồ uống,2,1
+cat_007_01,shop_007,Phở,1,1
+cat_007_02,shop_007,Món thêm,2,1
+cat_007_03,shop_007,Đồ uống,3,1
+cat_008_01,shop_008,Bún,1,1
+cat_008_02,shop_008,Cuốn,2,1
+cat_008_03,shop_008,Món thêm,3,1
+cat_008_04,shop_008,Đồ uống,4,1
+cat_009_01,shop_009,Pizza,1,1
+cat_009_02,shop_009,Mì Ý,2,1
+cat_009_03,shop_009,Ăn vặt,3,1
+cat_009_04,shop_009,Combo,4,1
+cat_010_01,shop_010,Bento,1,1
+cat_010_02,shop_010,Sushi,2,1
+cat_010_03,shop_010,Cơm,3,1
+cat_010_04,shop_010,Canh,4,1
+cat_010_05,shop_010,Đồ uống,5,1
+cat_011_01,shop_011,Lẩu,1,1
+cat_011_02,shop_011,Món thêm,2,1
+cat_011_03,shop_011,Đồ uống,3,1
+cat_012_01,shop_012,Cơm,1,1
+cat_012_02,shop_012,Bún,2,1
+cat_012_03,shop_012,Cuốn,3,1
+cat_012_04,shop_012,Món chính,4,1
+cat_012_05,shop_012,Canh,5,1
+cat_012_06,shop_012,Đồ uống,6,1
+cat_013_01,shop_013,Dimsum,1,1
+cat_013_02,shop_013,Mì,2,1
+cat_013_03,shop_013,Đồ uống,3,1
+cat_014_01,shop_014,Burger,1,1
+cat_014_02,shop_014,Ăn vặt,2,1
+cat_014_03,shop_014,Combo,3,1
+cat_014_04,shop_014,Đồ uống,4,1
+cat_015_01,shop_015,Cơm,1,1
+cat_015_02,shop_015,Gỏi,2,1
+cat_015_03,shop_015,Canh,3,1
+cat_015_04,shop_015,Đồ uống,4,1
+cat_016_01,shop_016,Bún đậu,1,1
+cat_016_02,shop_016,Ăn vặt,2,1
+cat_016_03,shop_016,Món thêm,3,1
+cat_016_04,shop_016,Đồ uống,4,1
+cat_017_01,shop_017,Trà sữa,1,1
+cat_017_02,shop_017,Trà trái cây,2,1
+cat_017_03,shop_017,Topping,3,1
+cat_017_04,shop_017,Đồ uống,4,1
+cat_018_01,shop_018,Cháo,1,1
+cat_018_02,shop_018,Súp,2,1
+cat_018_03,shop_018,Món thêm,3,1
+cat_018_04,shop_018,Đồ uống,4,1
+cat_019_01,shop_019,Cơm,1,1
+cat_019_02,shop_019,Món phụ,2,1
+cat_019_03,shop_019,Canh,3,1
+cat_019_04,shop_019,Đồ uống,4,1
+cat_020_01,shop_020,Bánh canh,1,1
+cat_020_02,shop_020,Món thêm,2,1
+cat_020_03,shop_020,Đồ uống,3,1
+cat_021_01,shop_021,Mì xào,1,1
+cat_021_02,shop_021,Cơm,2,1
+cat_021_03,shop_021,Súp,3,1
+cat_021_04,shop_021,Gỏi,4,1
+cat_021_05,shop_021,Tráng miệng,5,1
+cat_021_06,shop_021,Đồ uống,6,1
+cat_022_01,shop_022,Mì,1,1
+cat_022_02,shop_022,Món thêm,2,1
+cat_022_03,shop_022,Đồ uống,3,1
+cat_023_01,shop_023,Xôi,1,1
+cat_023_02,shop_023,Món thêm,2,1
+cat_023_03,shop_023,Đồ uống,3,1
+cat_024_01,shop_024,Bún,1,1
+cat_024_02,shop_024,Món thêm,2,1
+cat_024_03,shop_024,Đồ uống,3,1
+cat_025_01,shop_025,Wrap,1,1
+cat_025_02,shop_025,Món chính,2,1
+cat_025_03,shop_025,Ăn vặt,3,1
+cat_025_04,shop_025,Đồ uống,4,1
+cat_026_01,shop_026,Cơm,1,1
+cat_026_02,shop_026,Combo,2,1
+cat_026_03,shop_026,Canh,3,1
+cat_027_01,shop_027,Ốc,1,1
+cat_027_02,shop_027,Hải sản,2,1
+cat_027_03,shop_027,Món thêm,3,1
+cat_027_04,shop_027,Đồ uống,4,1
+cat_028_01,shop_028,Brunch,1,1
+cat_028_02,shop_028,Sandwich,2,1
+cat_028_03,shop_028,Tráng miệng,3,1
+cat_028_04,shop_028,Cà phê,4,1
+cat_029_01,shop_029,Mì,1,1
+cat_029_02,shop_029,Món thêm,2,1
+cat_029_03,shop_029,Cuốn,3,1
+cat_029_04,shop_029,Đồ uống,4,1
+cat_030_01,shop_030,Taco,1,1
+cat_030_02,shop_030,Burrito,2,1
+cat_030_03,shop_030,Ăn vặt,3,1
+cat_030_04,shop_030,Đồ uống,4,1
+cat_031_01,shop_031,Cơm,1,1
+cat_031_02,shop_031,Món chính,2,1
+cat_031_03,shop_031,Canh,3,1
+cat_031_04,shop_031,Đồ uống,4,1
+cat_032_01,shop_032,Ramen,1,1
+cat_032_02,shop_032,Ăn vặt,2,1
+cat_032_03,shop_032,Món thêm,3,1
+cat_032_04,shop_032,Đồ uống,4,1
+cat_033_01,shop_033,Bún,1,1
+cat_033_02,shop_033,Món thêm,2,1
+cat_033_03,shop_033,Đồ uống,3,1
+cat_034_01,shop_034,Cơm,1,1
+cat_034_02,shop_034,Canh,2,1
+cat_034_03,shop_034,Món thêm,3,1
+cat_034_04,shop_034,Đồ uống,4,1
+cat_035_01,shop_035,Curry,1,1
+cat_035_02,shop_035,Món thêm,2,1
+cat_035_03,shop_035,Đồ uống,3,1
+cat_036_01,shop_036,Salad,1,1
+cat_036_02,shop_036,Wrap,2,1
+cat_036_03,shop_036,Súp,3,1
+cat_036_04,shop_036,Đồ uống,4,1
+cat_036_05,shop_036,Tráng miệng,5,1
+cat_037_01,shop_037,Bò né,1,1
+cat_037_02,shop_037,Món thêm,2,1
+cat_037_03,shop_037,Salad,3,1
+cat_037_04,shop_037,Đồ uống,4,1
+cat_038_01,shop_038,Cuốn,1,1
+cat_038_02,shop_038,Món thêm,2,1
+cat_038_03,shop_038,Đồ uống,3,1
+cat_039_01,shop_039,Hủ tiếu,1,1
+cat_039_02,shop_039,Súp,2,1
+cat_039_03,shop_039,Món thêm,3,1
+cat_039_04,shop_039,Đồ uống,4,1
+cat_040_01,shop_040,Bánh xèo,1,1
+cat_040_02,shop_040,Bánh khọt,2,1
+cat_040_03,shop_040,Món thêm,3,1
+cat_040_04,shop_040,Đồ uống,4,1
+cat_041_01,shop_041,Sandwich,1,1
+cat_041_02,shop_041,Súp,2,1
+cat_041_03,shop_041,Tráng miệng,3,1
+cat_041_04,shop_041,Cà phê,4,1
+cat_042_01,shop_042,Cơm,1,1
+cat_042_02,shop_042,Món chính,2,1
+cat_042_03,shop_042,Combo,3,1
+cat_042_04,shop_042,Salad,4,1
+cat_042_05,shop_042,Đồ uống,5,1
+cat_043_01,shop_043,Tráng miệng,1,1
+cat_043_02,shop_043,Bánh ngọt,2,1
+cat_043_03,shop_043,Đồ uống,3,1
+cat_044_01,shop_044,Bún,1,1
+cat_044_02,shop_044,Món thêm,2,1
+cat_044_03,shop_044,Đồ uống,3,1

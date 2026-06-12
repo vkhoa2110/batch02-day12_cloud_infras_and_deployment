@@ -1,0 +1,9 @@
+﻿id,code,name,description,promo_type,value,min_order_amount,max_discount_amount,start_at,end_at,is_active
+promo_001,Q1FREESHIP,Miễn phí giao hàng khu Quận 1,Miễn phí giao hàng tối đa 15k cho đơn từ 80k,free_delivery,15000,80000,15000,2026-05-15T12:00:00+07:00,2026-07-04T12:00:00+07:00,1
+promo_002,LUNCH10,Giảm 10% bữa trưa,Giảm 10% cho đơn từ 100k trong khung giờ trưa,percent,10,100000,25000,2026-05-25T12:00:00+07:00,2026-06-24T12:00:00+07:00,1
+promo_003,DINNER15K,Giảm 15k bữa tối,Giảm 15k cho đơn từ 120k,amount,15000,120000,15000,2026-05-30T12:00:00+07:00,2026-06-29T12:00:00+07:00,1
+promo_004,HEALTHY12,Ưu đãi món healthy,Giảm 12% cho các món healthy,percent,12,70000,20000,2026-05-20T12:00:00+07:00,2026-07-19T12:00:00+07:00,1
+promo_005,COMBO199,Combo nhóm tiết kiệm,Giá combo tốt cho đơn nhóm 2-3 người,combo,199000,150000,50000,2026-06-01T12:00:00+07:00,2026-07-14T12:00:00+07:00,1
+promo_006,DRINK5K,Giảm đồ uống,Giảm 5k khi mua kèm đồ uống,amount,5000,50000,5000,2026-06-03T12:00:00+07:00,2026-06-19T12:00:00+07:00,1
+promo_007,NEWUSER20,Khách mới giảm 20%,Giảm 20% tối đa 30k cho khách mới,percent,20,80000,30000,2026-05-05T12:00:00+07:00,2026-08-03T12:00:00+07:00,1
+promo_008,SPICYDAY,Ngày món cay,Giảm 10k cho món cay từ cấp 3,amount,10000,70000,10000,2026-05-27T12:00:00+07:00,2026-06-26T12:00:00+07:00,1

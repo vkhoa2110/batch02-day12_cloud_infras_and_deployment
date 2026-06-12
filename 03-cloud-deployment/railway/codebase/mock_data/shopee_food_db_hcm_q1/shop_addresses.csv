@@ -1,0 +1,45 @@
+﻿id,shop_id,ward_id,street_address,full_address,landmark,latitude,longitude,geohash,delivery_radius_km,parking_available,dine_in_available
+addr_001,shop_001,ward_ben_thanh,94 Phan Bội Châu,"94 Phan Bội Châu, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",gần công viên,10.774997,106.697233,w3gv9705,4.3,1,0
+addr_002,shop_002,ward_da_kao,Hẻm 207/190 Nguyễn Đình Chiểu,"Hẻm 207/190 Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",khu ăn uống,10.790668,106.69868,w3gv5613,3.2,0,0
+addr_003,shop_003,ward_ben_nghe,170 Lê Lợi,"170 Lê Lợi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",mặt tiền đường,10.777832,106.700967,w3gv6873,3.6,1,0
+addr_004,shop_004,ward_nguyen_thai_binh,46 Yersin,"46 Yersin, Phường Nguyễn Thái Bình, Quận 1, TP. Hồ Chí Minh",mặt tiền đường,10.765494,106.699933,w3gv7756,6.2,1,0
+addr_005,shop_005,ward_cau_ong_lanh,39 Đề Thám,"39 Đề Thám, Phường Cầu Ông Lãnh, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.767938,106.693152,w3gv8263,5.3,1,0
+addr_006,shop_006,ward_tan_dinh,197 Võ Thị Sáu,"197 Võ Thị Sáu, Phường Tân Định, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.794637,106.693534,w3gv2024,4.3,0,1
+addr_007,shop_007,ward_ben_thanh,220 Nguyễn Trung Trực,"220 Nguyễn Trung Trực, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.774813,106.695116,w3gv3041,3.7,0,0
+addr_008,shop_008,ward_nguyen_cu_trinh,197 Trần Đình Xu,"197 Trần Đình Xu, Phường Nguyễn Cư Trinh, Quận 1, TP. Hồ Chí Minh",mặt tiền đường,10.760948,106.688016,w3gv1190,3.1,1,0
+addr_009,shop_009,ward_ben_nghe,147 Đồng Khởi,"147 Đồng Khởi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",gần tòa nhà văn phòng,10.776256,106.702768,w3gv6589,3.9,0,0
+addr_010,shop_010,ward_ben_nghe,168 Hai Bà Trưng,"168 Hai Bà Trưng, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",gần tòa nhà văn phòng,10.78321,106.705723,w3gv5107,3.6,1,1
+addr_011,shop_011,ward_cau_kho,202 Nguyễn Văn Cừ,"202 Nguyễn Văn Cừ, Phường Cầu Kho, Quận 1, TP. Hồ Chí Minh",gần tòa nhà văn phòng,10.756856,106.690981,w3gv8787,5.2,1,0
+addr_012,shop_012,ward_da_kao,67 Mai Thị Lựu,"67 Mai Thị Lựu, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",gần tòa nhà văn phòng,10.790509,106.701512,w3gv4823,6.5,0,0
+addr_013,shop_013,ward_ben_thanh,87 Lý Tự Trọng,"87 Lý Tự Trọng, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.770486,106.698337,w3gv9974,5.4,1,0
+addr_014,shop_014,ward_nguyen_thai_binh,48 Phó Đức Chính,"48 Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1, TP. Hồ Chí Minh",khu ăn uống,10.767906,106.703311,w3gv7920,4.9,0,0
+addr_015,shop_015,ward_ben_nghe,55 Mạc Thị Bưởi,"55 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",gần công viên,10.780757,106.707639,w3gv9131,4.0,0,1
+addr_016,shop_016,ward_tan_dinh,Hẻm 77/190 Nguyễn Hữu Cầu,"Hẻm 77/190 Nguyễn Hữu Cầu, Phường Tân Định, Quận 1, TP. Hồ Chí Minh",gần chợ,10.789933,106.690592,w3gv1508,3.6,1,0
+addr_017,shop_017,ward_ben_thanh,97 Lê Thánh Tôn,"97 Lê Thánh Tôn, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",đối diện trường học,10.775029,106.695009,w3gv3789,4.9,1,0
+addr_018,shop_018,ward_cau_kho,102 Trần Đình Xu,"102 Trần Đình Xu, Phường Cầu Kho, Quận 1, TP. Hồ Chí Minh",gần tòa nhà văn phòng,10.761434,106.687313,w3gv3147,6.2,1,0
+addr_019,shop_019,ward_nguyen_cu_trinh,106 Trần Đình Xu,"106 Trần Đình Xu, Phường Nguyễn Cư Trinh, Quận 1, TP. Hồ Chí Minh",gần công viên,10.759938,106.688679,w3gv5780,4.8,0,1
+addr_020,shop_020,ward_da_kao,29 Mai Thị Lựu,"29 Mai Thị Lựu, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",gần công viên,10.785874,106.698586,w3gv8836,3.5,0,0
+addr_021,shop_021,ward_ben_nghe,146 Nguyễn Huệ,"146 Nguyễn Huệ, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",mặt tiền đường,10.782896,106.703009,w3gv4278,6.4,1,0
+addr_022,shop_022,ward_cau_ong_lanh,141 Cô Giang,"141 Cô Giang, Phường Cầu Ông Lãnh, Quận 1, TP. Hồ Chí Minh",gần chợ,10.764801,106.69773,w3gv7649,4.6,1,0
+addr_023,shop_023,ward_ben_thanh,152 Trương Định,"152 Trương Định, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",khu ăn uống,10.77087,106.695812,w3gv2205,4.4,1,1
+addr_024,shop_024,ward_tan_dinh,Hẻm 46/181 Hai Bà Trưng,"Hẻm 46/181 Hai Bà Trưng, Phường Tân Định, Quận 1, TP. Hồ Chí Minh",đối diện trường học,10.795929,106.6893,w3gv7435,3.1,1,0
+addr_025,shop_025,ward_ben_nghe,170 Lê Lợi,"170 Lê Lợi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",mặt tiền đường,10.778341,106.702005,w3gv9906,6.0,0,1
+addr_026,shop_026,ward_nguyen_thai_binh,217 Phó Đức Chính,"217 Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1, TP. Hồ Chí Minh",gần tòa nhà văn phòng,10.770796,106.698751,w3gv8141,6.4,1,1
+addr_027,shop_027,ward_cau_kho,7 Trần Đình Xu,"7 Trần Đình Xu, Phường Cầu Kho, Quận 1, TP. Hồ Chí Minh",gần chợ,10.759622,106.691541,w3gv5854,6.0,1,0
+addr_028,shop_028,ward_da_kao,43 Nguyễn Văn Thủ,"43 Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.792032,106.699618,w3gv6209,5.3,1,0
+addr_029,shop_029,ward_nguyen_cu_trinh,139 Cống Quỳnh,"139 Cống Quỳnh, Phường Nguyễn Cư Trinh, Quận 1, TP. Hồ Chí Minh",gần công viên,10.76437,106.689562,w3gv8487,6.1,1,1
+addr_030,shop_030,ward_ben_nghe,96 Đồng Khởi,"96 Đồng Khởi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",gần chợ,10.781699,106.7039,w3gv5703,4.5,0,1
+addr_031,shop_031,ward_cau_ong_lanh,Hẻm 138/138 Cô Bắc,"Hẻm 138/138 Cô Bắc, Phường Cầu Ông Lãnh, Quận 1, TP. Hồ Chí Minh",khu ăn uống,10.76508,106.692608,w3gv4979,3.7,1,0
+addr_032,shop_032,ward_ben_thanh,83 Phan Bội Châu,"83 Phan Bội Châu, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",mặt tiền đường,10.772708,106.702298,w3gv5178,5.1,0,0
+addr_033,shop_033,ward_da_kao,53 Nguyễn Đình Chiểu,"53 Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.786403,106.695889,w3gv1550,5.5,0,0
+addr_034,shop_034,ward_tan_dinh,62 Nguyễn Hữu Cầu,"62 Nguyễn Hữu Cầu, Phường Tân Định, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.792729,106.690306,w3gv5647,6.0,1,1
+addr_035,shop_035,ward_ben_nghe,182 Lê Lợi,"182 Lê Lợi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",gần công viên,10.776525,106.703176,w3gv1119,3.4,1,1
+addr_036,shop_036,ward_ben_thanh,24 Phan Bội Châu,"24 Phan Bội Châu, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.772637,106.697942,w3gv5914,4.2,1,0
+addr_037,shop_037,ward_nguyen_cu_trinh,Hẻm 67/195 Bùi Viện,"Hẻm 67/195 Bùi Viện, Phường Nguyễn Cư Trinh, Quận 1, TP. Hồ Chí Minh",khu ăn uống,10.764737,106.68349,w3gv7869,5.5,1,1
+addr_038,shop_038,ward_nguyen_thai_binh,120 Calmette,"120 Calmette, Phường Nguyễn Thái Bình, Quận 1, TP. Hồ Chí Minh",gần công viên,10.767466,106.698536,w3gv4688,5.8,0,0
+addr_039,shop_039,ward_cau_ong_lanh,121 Nguyễn Thái Học,"121 Nguyễn Thái Học, Phường Cầu Ông Lãnh, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.765662,106.691617,w3gv9056,3.7,0,0
+addr_040,shop_040,ward_cau_kho,51 Nguyễn Văn Cừ,"51 Nguyễn Văn Cừ, Phường Cầu Kho, Quận 1, TP. Hồ Chí Minh",khu ăn uống,10.758987,106.691754,w3gv5777,5.5,0,0
+addr_041,shop_041,ward_ben_nghe,28 Mạc Thị Bưởi,"28 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",gần tòa nhà văn phòng,10.780991,106.706304,w3gv2614,5.7,1,1
+addr_042,shop_042,ward_tan_dinh,40 Võ Thị Sáu,"40 Võ Thị Sáu, Phường Tân Định, Quận 1, TP. Hồ Chí Minh",đối diện trường học,10.794639,106.687784,w3gv9877,3.5,0,0
+addr_043,shop_043,ward_da_kao,71 Điện Biên Phủ,"71 Điện Biên Phủ, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",hẻm xe máy,10.785488,106.700001,w3gv4525,5.8,0,0
+addr_044,shop_044,ward_nguyen_thai_binh,16 Phó Đức Chính,"16 Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1, TP. Hồ Chí Minh",gần chợ,10.765811,106.70282,w3gv4309,3.1,0,1

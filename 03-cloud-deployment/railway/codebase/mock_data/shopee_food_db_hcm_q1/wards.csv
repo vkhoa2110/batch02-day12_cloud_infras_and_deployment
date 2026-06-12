@@ -1,0 +1,9 @@
+﻿id,region_id,name,center_lat,center_lng
+ward_ben_thanh,hcm_q1,Bến Thành,10.7721,106.6983
+ward_da_kao,hcm_q1,Đa Kao,10.7891,106.6984
+ward_ben_nghe,hcm_q1,Bến Nghé,10.7797,106.7044
+ward_nguyen_thai_binh,hcm_q1,Nguyễn Thái Bình,10.7688,106.7009
+ward_cau_ong_lanh,hcm_q1,Cầu Ông Lãnh,10.7648,106.6942
+ward_tan_dinh,hcm_q1,Tân Định,10.7938,106.6906
+ward_nguyen_cu_trinh,hcm_q1,Nguyễn Cư Trinh,10.7632,106.6869
+ward_cau_kho,hcm_q1,Cầu Kho,10.7578,106.6896

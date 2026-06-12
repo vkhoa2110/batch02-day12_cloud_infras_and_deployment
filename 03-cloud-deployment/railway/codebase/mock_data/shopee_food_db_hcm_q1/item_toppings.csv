@@ -1,0 +1,89 @@
+﻿id,shop_id,name,price,is_available
+top_001_01,shop_001,Thêm phô mai,15000,1
+top_001_02,shop_001,Thêm trứng,12000,1
+top_002_01,shop_002,Thêm sốt đặc biệt,7000,1
+top_002_02,shop_002,Thêm trứng,12000,1
+top_003_01,shop_003,Thêm phô mai,15000,1
+top_003_02,shop_003,Thêm rau,8000,1
+top_004_01,shop_004,Thêm rau,8000,1
+top_004_02,shop_004,Thêm trứng,12000,1
+top_005_01,shop_005,Thêm sốt đặc biệt,7000,1
+top_005_02,shop_005,Thêm trứng,12000,1
+top_006_01,shop_006,Thêm rau,8000,1
+top_006_02,shop_006,Thêm trứng,12000,1
+top_007_01,shop_007,Thêm rau,8000,1
+top_007_02,shop_007,Thêm phô mai,15000,1
+top_008_01,shop_008,Thêm sốt đặc biệt,7000,1
+top_008_02,shop_008,Thêm phô mai,15000,1
+top_009_01,shop_009,Thêm rau,8000,1
+top_009_02,shop_009,Thêm trứng,12000,1
+top_010_01,shop_010,Thêm trứng,12000,1
+top_010_02,shop_010,Thêm rau,8000,1
+top_011_01,shop_011,Thêm rau,8000,1
+top_011_02,shop_011,Thêm phô mai,15000,1
+top_012_01,shop_012,Thêm phô mai,15000,1
+top_012_02,shop_012,Thêm sốt đặc biệt,7000,1
+top_013_01,shop_013,Thêm phô mai,15000,1
+top_013_02,shop_013,Thêm rau,8000,1
+top_014_01,shop_014,Thêm rau,8000,1
+top_014_02,shop_014,Thêm phô mai,15000,1
+top_015_01,shop_015,Thêm sốt đặc biệt,7000,1
+top_015_02,shop_015,Thêm trứng,12000,1
+top_016_01,shop_016,Thêm trứng,12000,1
+top_016_02,shop_016,Thêm phô mai,15000,1
+top_017_01,shop_017,Thêm rau,8000,1
+top_017_02,shop_017,Thêm phô mai,15000,1
+top_018_01,shop_018,Thêm rau,8000,1
+top_018_02,shop_018,Thêm trứng,12000,1
+top_019_01,shop_019,Thêm phô mai,15000,1
+top_019_02,shop_019,Thêm trứng,12000,1
+top_020_01,shop_020,Thêm sốt đặc biệt,7000,1
+top_020_02,shop_020,Thêm phô mai,15000,1
+top_021_01,shop_021,Thêm rau,8000,1
+top_021_02,shop_021,Thêm trứng,12000,1
+top_022_01,shop_022,Thêm rau,8000,1
+top_022_02,shop_022,Thêm phô mai,15000,1
+top_023_01,shop_023,Thêm sốt đặc biệt,7000,1
+top_023_02,shop_023,Thêm rau,8000,1
+top_024_01,shop_024,Thêm sốt đặc biệt,7000,1
+top_024_02,shop_024,Thêm rau,8000,1
+top_025_01,shop_025,Thêm phô mai,15000,1
+top_025_02,shop_025,Thêm sốt đặc biệt,7000,1
+top_026_01,shop_026,Thêm rau,8000,1
+top_026_02,shop_026,Thêm sốt đặc biệt,7000,1
+top_027_01,shop_027,Thêm trứng,12000,1
+top_027_02,shop_027,Thêm rau,8000,1
+top_028_01,shop_028,Thêm sốt đặc biệt,7000,1
+top_028_02,shop_028,Thêm phô mai,15000,1
+top_029_01,shop_029,Thêm sốt đặc biệt,7000,1
+top_029_02,shop_029,Thêm trứng,12000,1
+top_030_01,shop_030,Thêm phô mai,15000,1
+top_030_02,shop_030,Thêm trứng,12000,1
+top_031_01,shop_031,Thêm sốt đặc biệt,7000,1
+top_031_02,shop_031,Thêm rau,8000,1
+top_032_01,shop_032,Thêm phô mai,15000,1
+top_032_02,shop_032,Thêm sốt đặc biệt,7000,1
+top_033_01,shop_033,Thêm rau,8000,1
+top_033_02,shop_033,Thêm phô mai,15000,1
+top_034_01,shop_034,Thêm sốt đặc biệt,7000,1
+top_034_02,shop_034,Thêm trứng,12000,1
+top_035_01,shop_035,Thêm rau,8000,1
+top_035_02,shop_035,Thêm phô mai,15000,1
+top_036_01,shop_036,Thêm sốt đặc biệt,7000,1
+top_036_02,shop_036,Thêm phô mai,15000,1
+top_037_01,shop_037,Thêm phô mai,15000,1
+top_037_02,shop_037,Thêm sốt đặc biệt,7000,1
+top_038_01,shop_038,Thêm rau,8000,1
+top_038_02,shop_038,Thêm sốt đặc biệt,7000,1
+top_039_01,shop_039,Thêm phô mai,15000,1
+top_039_02,shop_039,Thêm trứng,12000,1
+top_040_01,shop_040,Thêm trứng,12000,1
+top_040_02,shop_040,Thêm sốt đặc biệt,7000,1
+top_041_01,shop_041,Thêm phô mai,15000,1
+top_041_02,shop_041,Thêm trứng,12000,1
+top_042_01,shop_042,Thêm trứng,12000,1
+top_042_02,shop_042,Thêm sốt đặc biệt,7000,1
+top_043_01,shop_043,Thêm sốt đặc biệt,7000,1
+top_043_02,shop_043,Thêm rau,8000,1
+top_044_01,shop_044,Thêm trứng,12000,1
+top_044_02,shop_044,Thêm sốt đặc biệt,7000,1

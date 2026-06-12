@@ -1,0 +1,68 @@
+﻿id,name,parent_name
+cuisine_001,BBQ,
+cuisine_002,Bento,
+cuisine_003,Bibimbap,
+cuisine_004,Brunch,
+cuisine_005,Burger,
+cuisine_006,Burrito,
+cuisine_007,Bánh canh,Việt Nam
+cuisine_008,Bánh mì,Việt Nam
+cuisine_009,Bánh ngọt,
+cuisine_010,Bánh xèo,Việt Nam
+cuisine_011,Bò né,
+cuisine_012,Bún bò Huế,Việt Nam
+cuisine_013,Bún chả,Việt Nam
+cuisine_014,Bún cá,Việt Nam
+cuisine_015,Bún riêu,Việt Nam
+cuisine_016,Bún thịt nướng,Việt Nam
+cuisine_017,Bún đậu,Việt Nam
+cuisine_018,Cafe,
+cuisine_019,Chay,
+cuisine_020,Cháo,Việt Nam
+cuisine_021,Curry,
+cuisine_022,Cuốn,
+cuisine_023,Cơm gà,
+cuisine_024,Cơm nhà,Việt Nam
+cuisine_025,Cơm niêu,Việt Nam
+cuisine_026,Cơm tấm,Việt Nam
+cuisine_027,Cơm văn phòng,
+cuisine_028,Dimsum,
+cuisine_029,Eat clean,
+cuisine_030,Gà rán,
+cuisine_031,Healthy,
+cuisine_032,Hoa,
+cuisine_033,Hàn Quốc,
+cuisine_034,Hải sản,
+cuisine_035,Hủ tiếu,Việt Nam
+cuisine_036,Indonesia,
+cuisine_037,Kebab,
+cuisine_038,Lẩu,
+cuisine_039,Mexico,
+cuisine_040,Mì Quảng,Việt Nam
+cuisine_041,Mì cay,
+cuisine_042,Mì trộn,
+cuisine_043,Món Thái,
+cuisine_044,Mỹ,
+cuisine_045,Nhật Bản,
+cuisine_046,Nướng,
+cuisine_047,Pháp,
+cuisine_048,Phở,Việt Nam
+cuisine_049,Pizza,
+cuisine_050,Ramen,
+cuisine_051,Salad,
+cuisine_052,Sandwich,
+cuisine_053,Singapore,
+cuisine_054,Sushi,
+cuisine_055,Taco,
+cuisine_056,Thái,
+cuisine_057,Thái Lan,
+cuisine_058,Trung Đông,
+cuisine_059,Trà sữa,
+cuisine_060,Việt Nam,
+cuisine_061,Wrap,
+cuisine_062,Xôi,
+cuisine_063,Âu,
+cuisine_064,Ý,
+cuisine_065,Đồ uống,
+cuisine_066,Ấn Độ,
+cuisine_067,Ốc,
