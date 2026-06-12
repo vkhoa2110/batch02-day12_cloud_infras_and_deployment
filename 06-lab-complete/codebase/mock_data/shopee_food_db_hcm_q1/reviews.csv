@@ -1,0 +1,354 @@
+﻿id,shop_id,item_id,customer_id,rating,comment,sentiment,created_at
+rev_001_001,shop_001,item_001_001,cus_0057,4,"Món ngon, giao nhanh.",positive,2026-03-18T12:00:00+07:00
+rev_001_002,shop_001,item_001_004,cus_0007,5,"Món ngon, giao nhanh.",positive,2026-01-13T12:00:00+07:00
+rev_001_003,shop_001,item_001_004,cus_0080,2,Món hơi nguội khi nhận.,negative,2026-04-02T12:00:00+07:00
+rev_001_004,shop_001,item_001_004,cus_0080,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-01-13T12:00:00+07:00
+rev_001_005,shop_001,,cus_0020,1,Món hơi nguội khi nhận.,negative,2026-05-03T12:00:00+07:00
+rev_001_006,shop_001,item_001_003,cus_0081,5,"Vị vừa miệng, giá ổn.",positive,2026-05-15T12:00:00+07:00
+rev_001_007,shop_001,,cus_0100,5,"Vị vừa miệng, giá ổn.",positive,2026-02-26T12:00:00+07:00
+rev_001_008,shop_001,item_001_006,cus_0020,5,Shop chuẩn bị nhanh.,positive,2025-12-08T12:00:00+07:00
+rev_002_001,shop_002,,cus_0119,2,Giao chậm.,negative,2026-03-26T12:00:00+07:00
+rev_002_002,shop_002,item_002_004,cus_0015,5,Shop chuẩn bị nhanh.,positive,2026-06-04T12:00:00+07:00
+rev_002_003,shop_002,item_002_005,cus_0036,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-25T12:00:00+07:00
+rev_002_004,shop_002,item_002_005,cus_0007,5,Phần ăn đầy đặn.,positive,2026-05-18T12:00:00+07:00
+rev_002_005,shop_002,item_002_001,cus_0097,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-21T12:00:00+07:00
+rev_002_006,shop_002,item_002_002,cus_0039,4,"Món ngon, giao nhanh.",positive,2026-05-04T12:00:00+07:00
+rev_002_007,shop_002,,cus_0117,4,Shop chuẩn bị nhanh.,positive,2026-05-17T12:00:00+07:00
+rev_003_001,shop_003,,cus_0038,5,"Vị vừa miệng, giá ổn.",positive,2026-01-11T12:00:00+07:00
+rev_003_002,shop_003,item_003_003,cus_0079,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-01-05T12:00:00+07:00
+rev_003_003,shop_003,item_003_004,cus_0033,5,"Vị vừa miệng, giá ổn.",positive,2025-12-15T12:00:00+07:00
+rev_003_004,shop_003,item_003_004,cus_0106,5,Shop chuẩn bị nhanh.,positive,2026-04-05T12:00:00+07:00
+rev_003_005,shop_003,,cus_0082,5,"Vị vừa miệng, giá ổn.",positive,2026-05-12T12:00:00+07:00
+rev_003_006,shop_003,,cus_0117,5,Phần ăn đầy đặn.,positive,2026-02-06T12:00:00+07:00
+rev_003_007,shop_003,item_003_002,cus_0052,3,Giá tạm ổn.,neutral,2026-01-25T12:00:00+07:00
+rev_004_001,shop_004,item_004_003,cus_0016,5,"Món ngon, giao nhanh.",positive,2026-01-28T12:00:00+07:00
+rev_004_002,shop_004,,cus_0111,4,Shop chuẩn bị nhanh.,positive,2026-04-10T12:00:00+07:00
+rev_004_003,shop_004,item_004_003,cus_0072,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-09T12:00:00+07:00
+rev_004_004,shop_004,,cus_0020,5,"Vị vừa miệng, giá ổn.",positive,2026-04-04T12:00:00+07:00
+rev_004_005,shop_004,,cus_0047,5,"Vị vừa miệng, giá ổn.",positive,2026-02-20T12:00:00+07:00
+rev_004_006,shop_004,item_004_001,cus_0094,4,"Món ngon, giao nhanh.",positive,2026-03-13T12:00:00+07:00
+rev_004_007,shop_004,,cus_0001,5,"Vị vừa miệng, giá ổn.",positive,2026-05-10T12:00:00+07:00
+rev_004_008,shop_004,item_004_005,cus_0105,5,Phần ăn đầy đặn.,positive,2026-03-16T12:00:00+07:00
+rev_005_001,shop_005,item_005_001,cus_0033,5,"Vị vừa miệng, giá ổn.",positive,2026-02-18T12:00:00+07:00
+rev_005_002,shop_005,item_005_004,cus_0048,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-08T12:00:00+07:00
+rev_005_003,shop_005,item_005_001,cus_0110,3,Giao hơi lâu nhưng vị được.,neutral,2026-05-12T12:00:00+07:00
+rev_005_004,shop_005,,cus_0015,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-27T12:00:00+07:00
+rev_005_005,shop_005,item_005_001,cus_0073,3,"Món ổn, không quá đặc biệt.",neutral,2026-02-24T12:00:00+07:00
+rev_005_006,shop_005,,cus_0087,5,Phần ăn đầy đặn.,positive,2026-01-13T12:00:00+07:00
+rev_005_007,shop_005,item_005_001,cus_0052,5,Phần ăn đầy đặn.,positive,2026-05-02T12:00:00+07:00
+rev_006_001,shop_006,item_006_004,cus_0042,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-06-01T12:00:00+07:00
+rev_006_002,shop_006,item_006_004,cus_0051,5,Shop chuẩn bị nhanh.,positive,2026-03-03T12:00:00+07:00
+rev_006_003,shop_006,item_006_001,cus_0099,5,"Vị vừa miệng, giá ổn.",positive,2025-12-08T12:00:00+07:00
+rev_006_004,shop_006,item_006_003,cus_0105,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-31T12:00:00+07:00
+rev_006_005,shop_006,item_006_001,cus_0049,4,Shop chuẩn bị nhanh.,positive,2025-12-16T12:00:00+07:00
+rev_006_006,shop_006,item_006_005,cus_0106,5,"Món ngon, giao nhanh.",positive,2026-03-28T12:00:00+07:00
+rev_006_007,shop_006,item_006_006,cus_0052,4,Phần ăn đầy đặn.,positive,2026-03-27T12:00:00+07:00
+rev_007_001,shop_007,item_007_002,cus_0014,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2025-12-30T12:00:00+07:00
+rev_007_002,shop_007,item_007_005,cus_0082,5,"Món ngon, giao nhanh.",positive,2026-02-16T12:00:00+07:00
+rev_007_003,shop_007,item_007_002,cus_0108,4,Phần ăn đầy đặn.,positive,2026-02-17T12:00:00+07:00
+rev_007_004,shop_007,,cus_0010,4,"Món ngon, giao nhanh.",positive,2025-12-28T12:00:00+07:00
+rev_007_005,shop_007,item_007_005,cus_0013,5,Shop chuẩn bị nhanh.,positive,2026-02-12T12:00:00+07:00
+rev_007_006,shop_007,item_007_006,cus_0026,5,Phần ăn đầy đặn.,positive,2026-05-26T12:00:00+07:00
+rev_007_007,shop_007,item_007_004,cus_0040,3,Giá tạm ổn.,neutral,2026-05-31T12:00:00+07:00
+rev_008_001,shop_008,item_008_001,cus_0025,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2025-12-27T12:00:00+07:00
+rev_008_002,shop_008,item_008_002,cus_0025,5,"Vị vừa miệng, giá ổn.",positive,2026-04-24T12:00:00+07:00
+rev_008_003,shop_008,item_008_004,cus_0065,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-01-21T12:00:00+07:00
+rev_008_004,shop_008,item_008_004,cus_0103,4,"Vị vừa miệng, giá ổn.",positive,2026-01-24T12:00:00+07:00
+rev_008_005,shop_008,item_008_004,cus_0009,1,Món hơi nguội khi nhận.,negative,2026-02-14T12:00:00+07:00
+rev_008_006,shop_008,item_008_005,cus_0098,5,Phần ăn đầy đặn.,positive,2026-03-24T12:00:00+07:00
+rev_008_007,shop_008,item_008_006,cus_0085,4,"Vị vừa miệng, giá ổn.",positive,2026-04-03T12:00:00+07:00
+rev_008_008,shop_008,,cus_0052,5,Phần ăn đầy đặn.,positive,2026-01-22T12:00:00+07:00
+rev_008_009,shop_008,item_008_005,cus_0051,4,"Vị vừa miệng, giá ổn.",positive,2026-02-12T12:00:00+07:00
+rev_008_010,shop_008,item_008_004,cus_0016,4,Phần ăn đầy đặn.,positive,2026-04-07T12:00:00+07:00
+rev_008_011,shop_008,,cus_0065,4,"Vị vừa miệng, giá ổn.",positive,2026-04-13T12:00:00+07:00
+rev_008_012,shop_008,,cus_0027,5,"Món ngon, giao nhanh.",positive,2026-03-19T12:00:00+07:00
+rev_009_001,shop_009,item_009_003,cus_0072,4,Phần ăn đầy đặn.,positive,2025-12-21T12:00:00+07:00
+rev_009_002,shop_009,item_009_003,cus_0078,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-01-28T12:00:00+07:00
+rev_009_003,shop_009,,cus_0024,4,"Vị vừa miệng, giá ổn.",positive,2026-05-30T12:00:00+07:00
+rev_009_004,shop_009,item_009_003,cus_0021,5,"Vị vừa miệng, giá ổn.",positive,2025-12-12T12:00:00+07:00
+rev_009_005,shop_009,,cus_0061,4,"Món ngon, giao nhanh.",positive,2026-05-25T12:00:00+07:00
+rev_009_006,shop_009,item_009_006,cus_0115,5,"Vị vừa miệng, giá ổn.",positive,2026-03-25T12:00:00+07:00
+rev_009_007,shop_009,,cus_0058,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-26T12:00:00+07:00
+rev_009_008,shop_009,item_009_006,cus_0099,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2025-12-19T12:00:00+07:00
+rev_009_009,shop_009,item_009_006,cus_0010,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-02-03T12:00:00+07:00
+rev_009_010,shop_009,item_009_004,cus_0001,5,Shop chuẩn bị nhanh.,positive,2026-03-16T12:00:00+07:00
+rev_010_001,shop_010,item_010_004,cus_0115,4,Shop chuẩn bị nhanh.,positive,2026-02-19T12:00:00+07:00
+rev_010_002,shop_010,item_010_001,cus_0047,5,"Món ngon, giao nhanh.",positive,2025-12-18T12:00:00+07:00
+rev_010_003,shop_010,item_010_002,cus_0092,5,Phần ăn đầy đặn.,positive,2026-02-25T12:00:00+07:00
+rev_010_004,shop_010,item_010_002,cus_0060,5,"Món ngon, giao nhanh.",positive,2026-02-12T12:00:00+07:00
+rev_010_005,shop_010,item_010_003,cus_0094,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2025-12-07T12:00:00+07:00
+rev_010_006,shop_010,item_010_006,cus_0056,4,Shop chuẩn bị nhanh.,positive,2026-02-06T12:00:00+07:00
+rev_010_007,shop_010,,cus_0030,4,Phần ăn đầy đặn.,positive,2026-05-15T12:00:00+07:00
+rev_010_008,shop_010,item_010_003,cus_0097,4,"Món ngon, giao nhanh.",positive,2026-05-01T12:00:00+07:00
+rev_010_009,shop_010,item_010_005,cus_0105,5,"Món ngon, giao nhanh.",positive,2026-04-18T12:00:00+07:00
+rev_010_010,shop_010,item_010_004,cus_0004,5,"Vị vừa miệng, giá ổn.",positive,2026-02-25T12:00:00+07:00
+rev_010_011,shop_010,item_010_002,cus_0072,4,"Món ngon, giao nhanh.",positive,2026-05-31T12:00:00+07:00
+rev_011_001,shop_011,,cus_0110,4,"Món ngon, giao nhanh.",positive,2026-03-27T12:00:00+07:00
+rev_011_002,shop_011,item_011_002,cus_0006,3,"Món ổn, không quá đặc biệt.",neutral,2026-03-06T12:00:00+07:00
+rev_011_003,shop_011,,cus_0014,5,"Món ngon, giao nhanh.",positive,2025-12-18T12:00:00+07:00
+rev_011_004,shop_011,item_011_001,cus_0086,4,Shop chuẩn bị nhanh.,positive,2026-05-12T12:00:00+07:00
+rev_011_005,shop_011,,cus_0072,5,Phần ăn đầy đặn.,positive,2026-01-19T12:00:00+07:00
+rev_012_001,shop_012,item_012_001,cus_0046,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-08T12:00:00+07:00
+rev_012_002,shop_012,,cus_0058,4,Shop chuẩn bị nhanh.,positive,2026-06-03T12:00:00+07:00
+rev_012_003,shop_012,item_012_006,cus_0023,3,"Món ổn, không quá đặc biệt.",neutral,2026-05-25T12:00:00+07:00
+rev_012_004,shop_012,item_012_006,cus_0081,5,Shop chuẩn bị nhanh.,positive,2025-12-30T12:00:00+07:00
+rev_012_005,shop_012,item_012_004,cus_0002,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-10T12:00:00+07:00
+rev_012_006,shop_012,item_012_006,cus_0082,4,"Món ngon, giao nhanh.",positive,2026-03-11T12:00:00+07:00
+rev_012_007,shop_012,item_012_005,cus_0047,4,"Vị vừa miệng, giá ổn.",positive,2026-04-02T12:00:00+07:00
+rev_012_008,shop_012,item_012_005,cus_0015,4,Phần ăn đầy đặn.,positive,2026-03-12T12:00:00+07:00
+rev_012_009,shop_012,item_012_002,cus_0055,4,"Vị vừa miệng, giá ổn.",positive,2026-02-23T12:00:00+07:00
+rev_012_010,shop_012,item_012_002,cus_0005,5,Shop chuẩn bị nhanh.,positive,2026-05-04T12:00:00+07:00
+rev_013_001,shop_013,item_013_002,cus_0064,3,"Món ổn, không quá đặc biệt.",neutral,2026-02-28T12:00:00+07:00
+rev_013_002,shop_013,item_013_003,cus_0020,4,"Món ngon, giao nhanh.",positive,2026-03-08T12:00:00+07:00
+rev_013_003,shop_013,item_013_006,cus_0102,4,"Món ngon, giao nhanh.",positive,2026-05-07T12:00:00+07:00
+rev_013_004,shop_013,item_013_002,cus_0089,5,"Món ngon, giao nhanh.",positive,2026-02-10T12:00:00+07:00
+rev_013_005,shop_013,,cus_0069,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-05T12:00:00+07:00
+rev_013_006,shop_013,item_013_002,cus_0078,5,Shop chuẩn bị nhanh.,positive,2025-12-28T12:00:00+07:00
+rev_013_007,shop_013,item_013_006,cus_0018,5,"Vị vừa miệng, giá ổn.",positive,2025-12-13T12:00:00+07:00
+rev_013_008,shop_013,,cus_0089,5,"Vị vừa miệng, giá ổn.",positive,2026-04-07T12:00:00+07:00
+rev_014_001,shop_014,item_014_006,cus_0010,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2025-12-20T12:00:00+07:00
+rev_014_002,shop_014,,cus_0029,5,"Vị vừa miệng, giá ổn.",positive,2026-03-11T12:00:00+07:00
+rev_014_003,shop_014,,cus_0046,5,"Món ngon, giao nhanh.",positive,2025-12-09T12:00:00+07:00
+rev_014_004,shop_014,item_014_005,cus_0060,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-01-13T12:00:00+07:00
+rev_014_005,shop_014,item_014_004,cus_0010,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2025-12-21T12:00:00+07:00
+rev_015_001,shop_015,item_015_005,cus_0098,3,Giao hơi lâu nhưng vị được.,neutral,2026-03-16T12:00:00+07:00
+rev_015_002,shop_015,item_015_001,cus_0096,5,Shop chuẩn bị nhanh.,positive,2026-04-20T12:00:00+07:00
+rev_015_003,shop_015,item_015_004,cus_0023,4,"Món ngon, giao nhanh.",positive,2026-04-01T12:00:00+07:00
+rev_015_004,shop_015,item_015_003,cus_0035,2,Khẩu phần nhỏ hơn mong đợi.,negative,2026-02-21T12:00:00+07:00
+rev_015_005,shop_015,,cus_0034,4,Shop chuẩn bị nhanh.,positive,2025-12-20T12:00:00+07:00
+rev_015_006,shop_015,item_015_001,cus_0048,3,Giao hơi lâu nhưng vị được.,neutral,2026-01-02T12:00:00+07:00
+rev_015_007,shop_015,item_015_004,cus_0107,5,"Vị vừa miệng, giá ổn.",positive,2026-01-23T12:00:00+07:00
+rev_015_008,shop_015,item_015_001,cus_0036,5,"Vị vừa miệng, giá ổn.",positive,2026-05-04T12:00:00+07:00
+rev_016_001,shop_016,,cus_0014,5,"Vị vừa miệng, giá ổn.",positive,2025-12-30T12:00:00+07:00
+rev_016_002,shop_016,item_016_001,cus_0030,2,Khẩu phần nhỏ hơn mong đợi.,negative,2026-04-11T12:00:00+07:00
+rev_016_003,shop_016,,cus_0043,5,"Món ngon, giao nhanh.",positive,2026-04-15T12:00:00+07:00
+rev_016_004,shop_016,item_016_005,cus_0057,3,Giá tạm ổn.,neutral,2026-05-01T12:00:00+07:00
+rev_016_005,shop_016,item_016_006,cus_0067,4,"Món ngon, giao nhanh.",positive,2026-05-04T12:00:00+07:00
+rev_016_006,shop_016,item_016_005,cus_0040,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-02-09T12:00:00+07:00
+rev_017_001,shop_017,,cus_0079,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-14T12:00:00+07:00
+rev_017_002,shop_017,item_017_005,cus_0059,5,"Món ngon, giao nhanh.",positive,2025-12-30T12:00:00+07:00
+rev_017_003,shop_017,item_017_002,cus_0059,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-05T12:00:00+07:00
+rev_017_004,shop_017,,cus_0101,5,"Món ngon, giao nhanh.",positive,2026-01-23T12:00:00+07:00
+rev_017_005,shop_017,item_017_006,cus_0037,5,"Món ngon, giao nhanh.",positive,2026-03-01T12:00:00+07:00
+rev_017_006,shop_017,,cus_0089,4,Shop chuẩn bị nhanh.,positive,2026-03-03T12:00:00+07:00
+rev_017_007,shop_017,item_017_002,cus_0067,5,Phần ăn đầy đặn.,positive,2026-05-14T12:00:00+07:00
+rev_017_008,shop_017,,cus_0079,4,"Món ngon, giao nhanh.",positive,2026-04-21T12:00:00+07:00
+rev_017_009,shop_017,,cus_0055,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-11T12:00:00+07:00
+rev_017_010,shop_017,item_017_004,cus_0025,5,"Món ngon, giao nhanh.",positive,2026-05-13T12:00:00+07:00
+rev_017_011,shop_017,item_017_001,cus_0013,5,"Món ngon, giao nhanh.",positive,2025-12-17T12:00:00+07:00
+rev_018_001,shop_018,,cus_0116,3,Giao hơi lâu nhưng vị được.,neutral,2026-03-27T12:00:00+07:00
+rev_018_002,shop_018,item_018_001,cus_0056,4,Shop chuẩn bị nhanh.,positive,2026-03-15T12:00:00+07:00
+rev_018_003,shop_018,item_018_001,cus_0005,3,Giao hơi lâu nhưng vị được.,neutral,2026-04-14T12:00:00+07:00
+rev_018_004,shop_018,item_018_003,cus_0065,5,"Món ngon, giao nhanh.",positive,2026-03-17T12:00:00+07:00
+rev_018_005,shop_018,,cus_0039,3,Giao hơi lâu nhưng vị được.,neutral,2026-04-28T12:00:00+07:00
+rev_018_006,shop_018,item_018_005,cus_0001,4,"Vị vừa miệng, giá ổn.",positive,2026-02-24T12:00:00+07:00
+rev_018_007,shop_018,,cus_0087,4,"Món ngon, giao nhanh.",positive,2026-05-12T12:00:00+07:00
+rev_019_001,shop_019,item_019_002,cus_0080,4,"Vị vừa miệng, giá ổn.",positive,2026-04-11T12:00:00+07:00
+rev_019_002,shop_019,item_019_002,cus_0038,5,"Món ngon, giao nhanh.",positive,2026-03-28T12:00:00+07:00
+rev_019_003,shop_019,item_019_006,cus_0038,3,"Món ổn, không quá đặc biệt.",neutral,2026-04-28T12:00:00+07:00
+rev_019_004,shop_019,,cus_0067,5,"Món ngon, giao nhanh.",positive,2026-02-07T12:00:00+07:00
+rev_019_005,shop_019,item_019_002,cus_0061,5,"Vị vừa miệng, giá ổn.",positive,2026-01-17T12:00:00+07:00
+rev_019_006,shop_019,item_019_002,cus_0057,5,Phần ăn đầy đặn.,positive,2026-02-16T12:00:00+07:00
+rev_019_007,shop_019,item_019_002,cus_0043,5,Phần ăn đầy đặn.,positive,2026-02-23T12:00:00+07:00
+rev_020_001,shop_020,,cus_0019,5,"Món ngon, giao nhanh.",positive,2026-01-26T12:00:00+07:00
+rev_020_002,shop_020,,cus_0090,5,"Món ngon, giao nhanh.",positive,2026-02-28T12:00:00+07:00
+rev_020_003,shop_020,item_020_003,cus_0081,5,Phần ăn đầy đặn.,positive,2026-05-10T12:00:00+07:00
+rev_020_004,shop_020,,cus_0014,5,"Vị vừa miệng, giá ổn.",positive,2026-02-27T12:00:00+07:00
+rev_020_005,shop_020,item_020_003,cus_0028,5,"Món ngon, giao nhanh.",positive,2026-01-23T12:00:00+07:00
+rev_020_006,shop_020,item_020_001,cus_0088,5,"Vị vừa miệng, giá ổn.",positive,2026-01-07T12:00:00+07:00
+rev_020_007,shop_020,item_020_003,cus_0001,5,"Vị vừa miệng, giá ổn.",positive,2025-12-20T12:00:00+07:00
+rev_020_008,shop_020,item_020_006,cus_0082,4,Shop chuẩn bị nhanh.,positive,2026-03-07T12:00:00+07:00
+rev_020_009,shop_020,item_020_004,cus_0046,4,"Vị vừa miệng, giá ổn.",positive,2025-12-14T12:00:00+07:00
+rev_020_010,shop_020,item_020_006,cus_0100,3,Giá tạm ổn.,neutral,2026-05-07T12:00:00+07:00
+rev_021_001,shop_021,item_021_001,cus_0009,5,Shop chuẩn bị nhanh.,positive,2026-05-15T12:00:00+07:00
+rev_021_002,shop_021,,cus_0044,5,"Vị vừa miệng, giá ổn.",positive,2026-02-16T12:00:00+07:00
+rev_021_003,shop_021,item_021_001,cus_0006,4,"Vị vừa miệng, giá ổn.",positive,2026-04-03T12:00:00+07:00
+rev_021_004,shop_021,,cus_0035,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-01-31T12:00:00+07:00
+rev_021_005,shop_021,item_021_003,cus_0052,4,"Món ngon, giao nhanh.",positive,2026-01-29T12:00:00+07:00
+rev_022_001,shop_022,item_022_001,cus_0119,2,Món hơi nguội khi nhận.,negative,2026-02-08T12:00:00+07:00
+rev_022_002,shop_022,item_022_006,cus_0110,5,Phần ăn đầy đặn.,positive,2025-12-24T12:00:00+07:00
+rev_022_003,shop_022,item_022_002,cus_0108,3,Giá tạm ổn.,neutral,2026-04-13T12:00:00+07:00
+rev_022_004,shop_022,item_022_001,cus_0037,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-19T12:00:00+07:00
+rev_022_005,shop_022,item_022_004,cus_0041,5,"Vị vừa miệng, giá ổn.",positive,2026-04-11T12:00:00+07:00
+rev_023_001,shop_023,,cus_0024,3,Giá tạm ổn.,neutral,2025-12-20T12:00:00+07:00
+rev_023_002,shop_023,item_023_002,cus_0020,5,Phần ăn đầy đặn.,positive,2026-03-25T12:00:00+07:00
+rev_023_003,shop_023,item_023_005,cus_0017,3,Giá tạm ổn.,neutral,2026-04-07T12:00:00+07:00
+rev_023_004,shop_023,,cus_0022,4,"Vị vừa miệng, giá ổn.",positive,2026-05-27T12:00:00+07:00
+rev_023_005,shop_023,item_023_004,cus_0031,5,"Món ngon, giao nhanh.",positive,2026-01-15T12:00:00+07:00
+rev_023_006,shop_023,item_023_004,cus_0098,2,Món hơi nguội khi nhận.,negative,2026-03-31T12:00:00+07:00
+rev_023_007,shop_023,item_023_004,cus_0009,5,"Món ngon, giao nhanh.",positive,2025-12-31T12:00:00+07:00
+rev_023_008,shop_023,item_023_002,cus_0011,4,"Vị vừa miệng, giá ổn.",positive,2026-02-15T12:00:00+07:00
+rev_023_009,shop_023,item_023_002,cus_0076,5,Shop chuẩn bị nhanh.,positive,2026-03-07T12:00:00+07:00
+rev_023_010,shop_023,,cus_0035,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-02-01T12:00:00+07:00
+rev_023_011,shop_023,item_023_004,cus_0109,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-02T12:00:00+07:00
+rev_023_012,shop_023,item_023_004,cus_0038,5,Shop chuẩn bị nhanh.,positive,2026-04-14T12:00:00+07:00
+rev_024_001,shop_024,item_024_003,cus_0117,5,Shop chuẩn bị nhanh.,positive,2026-05-26T12:00:00+07:00
+rev_024_002,shop_024,,cus_0092,3,"Món ổn, không quá đặc biệt.",neutral,2026-05-13T12:00:00+07:00
+rev_024_003,shop_024,item_024_006,cus_0119,4,"Vị vừa miệng, giá ổn.",positive,2026-03-26T12:00:00+07:00
+rev_024_004,shop_024,item_024_001,cus_0055,5,Shop chuẩn bị nhanh.,positive,2025-12-08T12:00:00+07:00
+rev_024_005,shop_024,,cus_0053,4,"Vị vừa miệng, giá ổn.",positive,2026-03-15T12:00:00+07:00
+rev_025_001,shop_025,,cus_0050,5,Phần ăn đầy đặn.,positive,2026-05-26T12:00:00+07:00
+rev_025_002,shop_025,item_025_003,cus_0044,3,Giao hơi lâu nhưng vị được.,neutral,2025-12-18T12:00:00+07:00
+rev_025_003,shop_025,item_025_002,cus_0012,4,Phần ăn đầy đặn.,positive,2025-12-09T12:00:00+07:00
+rev_025_004,shop_025,item_025_003,cus_0032,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-06T12:00:00+07:00
+rev_025_005,shop_025,item_025_004,cus_0054,4,Phần ăn đầy đặn.,positive,2026-03-18T12:00:00+07:00
+rev_025_006,shop_025,,cus_0115,5,"Món ngon, giao nhanh.",positive,2026-01-27T12:00:00+07:00
+rev_025_007,shop_025,item_025_006,cus_0033,4,"Vị vừa miệng, giá ổn.",positive,2025-12-31T12:00:00+07:00
+rev_025_008,shop_025,item_025_004,cus_0002,5,"Món ngon, giao nhanh.",positive,2026-01-20T12:00:00+07:00
+rev_025_009,shop_025,item_025_001,cus_0051,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-09T12:00:00+07:00
+rev_025_010,shop_025,,cus_0119,5,"Món ngon, giao nhanh.",positive,2026-04-29T12:00:00+07:00
+rev_025_011,shop_025,,cus_0087,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-02T12:00:00+07:00
+rev_026_001,shop_026,item_026_006,cus_0096,2,Món hơi nguội khi nhận.,negative,2025-12-24T12:00:00+07:00
+rev_026_002,shop_026,item_026_006,cus_0108,3,"Món ổn, không quá đặc biệt.",neutral,2026-02-07T12:00:00+07:00
+rev_026_003,shop_026,,cus_0099,3,Giá tạm ổn.,neutral,2026-01-29T12:00:00+07:00
+rev_026_004,shop_026,item_026_006,cus_0051,5,"Món ngon, giao nhanh.",positive,2026-03-04T12:00:00+07:00
+rev_026_005,shop_026,item_026_005,cus_0031,4,Phần ăn đầy đặn.,positive,2026-01-28T12:00:00+07:00
+rev_026_006,shop_026,item_026_004,cus_0015,5,"Món ngon, giao nhanh.",positive,2026-02-24T12:00:00+07:00
+rev_027_001,shop_027,item_027_001,cus_0003,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2025-12-13T12:00:00+07:00
+rev_027_002,shop_027,item_027_004,cus_0083,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-18T12:00:00+07:00
+rev_027_003,shop_027,item_027_004,cus_0042,4,"Món ngon, giao nhanh.",positive,2025-12-11T12:00:00+07:00
+rev_027_004,shop_027,,cus_0040,4,Phần ăn đầy đặn.,positive,2026-04-25T12:00:00+07:00
+rev_027_005,shop_027,item_027_004,cus_0065,4,Phần ăn đầy đặn.,positive,2026-04-14T12:00:00+07:00
+rev_027_006,shop_027,item_027_006,cus_0076,3,Giao hơi lâu nhưng vị được.,neutral,2026-03-14T12:00:00+07:00
+rev_027_007,shop_027,,cus_0050,5,Shop chuẩn bị nhanh.,positive,2026-01-23T12:00:00+07:00
+rev_027_008,shop_027,,cus_0008,4,Phần ăn đầy đặn.,positive,2026-06-01T12:00:00+07:00
+rev_027_009,shop_027,item_027_005,cus_0055,4,Phần ăn đầy đặn.,positive,2026-01-14T12:00:00+07:00
+rev_028_001,shop_028,,cus_0117,5,"Món ngon, giao nhanh.",positive,2026-01-17T12:00:00+07:00
+rev_028_002,shop_028,,cus_0094,5,Shop chuẩn bị nhanh.,positive,2026-03-22T12:00:00+07:00
+rev_028_003,shop_028,item_028_004,cus_0028,5,"Vị vừa miệng, giá ổn.",positive,2026-05-10T12:00:00+07:00
+rev_028_004,shop_028,item_028_004,cus_0008,3,"Món ổn, không quá đặc biệt.",neutral,2026-06-01T12:00:00+07:00
+rev_028_005,shop_028,item_028_005,cus_0101,5,"Món ngon, giao nhanh.",positive,2025-12-19T12:00:00+07:00
+rev_028_006,shop_028,item_028_003,cus_0001,5,Shop chuẩn bị nhanh.,positive,2026-06-04T12:00:00+07:00
+rev_028_007,shop_028,item_028_002,cus_0040,2,Giao chậm.,negative,2025-12-10T12:00:00+07:00
+rev_028_008,shop_028,item_028_005,cus_0062,5,"Món ngon, giao nhanh.",positive,2026-03-15T12:00:00+07:00
+rev_028_009,shop_028,item_028_005,cus_0036,4,"Vị vừa miệng, giá ổn.",positive,2026-01-23T12:00:00+07:00
+rev_029_001,shop_029,item_029_006,cus_0009,4,Shop chuẩn bị nhanh.,positive,2026-02-14T12:00:00+07:00
+rev_029_002,shop_029,item_029_005,cus_0005,1,Khẩu phần nhỏ hơn mong đợi.,negative,2026-04-29T12:00:00+07:00
+rev_029_003,shop_029,item_029_005,cus_0072,5,Phần ăn đầy đặn.,positive,2026-03-07T12:00:00+07:00
+rev_029_004,shop_029,item_029_005,cus_0058,2,Món hơi nguội khi nhận.,negative,2026-02-20T12:00:00+07:00
+rev_029_005,shop_029,item_029_004,cus_0080,5,"Vị vừa miệng, giá ổn.",positive,2026-03-30T12:00:00+07:00
+rev_029_006,shop_029,item_029_006,cus_0103,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-05-08T12:00:00+07:00
+rev_029_007,shop_029,item_029_003,cus_0013,5,"Vị vừa miệng, giá ổn.",positive,2026-03-01T12:00:00+07:00
+rev_029_008,shop_029,item_029_001,cus_0074,4,Phần ăn đầy đặn.,positive,2026-05-20T12:00:00+07:00
+rev_030_001,shop_030,item_030_006,cus_0030,5,Shop chuẩn bị nhanh.,positive,2026-03-01T12:00:00+07:00
+rev_030_002,shop_030,item_030_002,cus_0050,5,Shop chuẩn bị nhanh.,positive,2025-12-17T12:00:00+07:00
+rev_030_003,shop_030,item_030_005,cus_0070,5,"Vị vừa miệng, giá ổn.",positive,2025-12-13T12:00:00+07:00
+rev_030_004,shop_030,item_030_004,cus_0020,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-16T12:00:00+07:00
+rev_030_005,shop_030,item_030_004,cus_0063,4,Shop chuẩn bị nhanh.,positive,2026-03-27T12:00:00+07:00
+rev_030_006,shop_030,item_030_001,cus_0004,1,Khẩu phần nhỏ hơn mong đợi.,negative,2026-05-13T12:00:00+07:00
+rev_030_007,shop_030,item_030_002,cus_0005,5,Shop chuẩn bị nhanh.,positive,2026-02-24T12:00:00+07:00
+rev_030_008,shop_030,,cus_0120,5,Shop chuẩn bị nhanh.,positive,2026-02-11T12:00:00+07:00
+rev_030_009,shop_030,,cus_0099,5,Phần ăn đầy đặn.,positive,2026-01-04T12:00:00+07:00
+rev_030_010,shop_030,,cus_0099,5,Shop chuẩn bị nhanh.,positive,2026-02-21T12:00:00+07:00
+rev_031_001,shop_031,item_031_005,cus_0057,5,Shop chuẩn bị nhanh.,positive,2026-03-17T12:00:00+07:00
+rev_031_002,shop_031,item_031_003,cus_0105,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-31T12:00:00+07:00
+rev_031_003,shop_031,item_031_003,cus_0063,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-02-10T12:00:00+07:00
+rev_031_004,shop_031,item_031_002,cus_0042,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-06-01T12:00:00+07:00
+rev_031_005,shop_031,,cus_0024,4,"Vị vừa miệng, giá ổn.",positive,2026-05-28T12:00:00+07:00
+rev_031_006,shop_031,item_031_004,cus_0001,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-15T12:00:00+07:00
+rev_031_007,shop_031,item_031_005,cus_0087,4,Shop chuẩn bị nhanh.,positive,2026-01-15T12:00:00+07:00
+rev_032_001,shop_032,item_032_001,cus_0035,3,"Món ổn, không quá đặc biệt.",neutral,2026-05-31T12:00:00+07:00
+rev_032_002,shop_032,item_032_005,cus_0073,5,"Vị vừa miệng, giá ổn.",positive,2026-02-12T12:00:00+07:00
+rev_032_003,shop_032,item_032_004,cus_0118,5,"Món ngon, giao nhanh.",positive,2026-02-05T12:00:00+07:00
+rev_032_004,shop_032,item_032_001,cus_0107,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-05-10T12:00:00+07:00
+rev_032_005,shop_032,item_032_002,cus_0043,2,Khẩu phần nhỏ hơn mong đợi.,negative,2026-05-16T12:00:00+07:00
+rev_032_006,shop_032,,cus_0098,4,"Món ngon, giao nhanh.",positive,2026-05-05T12:00:00+07:00
+rev_032_007,shop_032,item_032_003,cus_0039,4,"Vị vừa miệng, giá ổn.",positive,2025-12-08T12:00:00+07:00
+rev_033_001,shop_033,item_033_004,cus_0116,5,Phần ăn đầy đặn.,positive,2026-03-19T12:00:00+07:00
+rev_033_002,shop_033,item_033_002,cus_0048,5,Phần ăn đầy đặn.,positive,2026-01-03T12:00:00+07:00
+rev_033_003,shop_033,,cus_0021,4,"Vị vừa miệng, giá ổn.",positive,2026-05-29T12:00:00+07:00
+rev_033_004,shop_033,,cus_0001,4,"Món ngon, giao nhanh.",positive,2026-03-09T12:00:00+07:00
+rev_033_005,shop_033,item_033_002,cus_0084,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-01-05T12:00:00+07:00
+rev_033_006,shop_033,item_033_002,cus_0096,5,Shop chuẩn bị nhanh.,positive,2026-05-26T12:00:00+07:00
+rev_033_007,shop_033,item_033_005,cus_0012,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-05-11T12:00:00+07:00
+rev_033_008,shop_033,item_033_003,cus_0053,3,"Món ổn, không quá đặc biệt.",neutral,2026-01-31T12:00:00+07:00
+rev_034_001,shop_034,item_034_003,cus_0099,5,"Vị vừa miệng, giá ổn.",positive,2026-02-07T12:00:00+07:00
+rev_034_002,shop_034,,cus_0083,3,Giá tạm ổn.,neutral,2025-12-25T12:00:00+07:00
+rev_034_003,shop_034,item_034_001,cus_0022,4,"Vị vừa miệng, giá ổn.",positive,2025-12-29T12:00:00+07:00
+rev_034_004,shop_034,item_034_006,cus_0079,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-22T12:00:00+07:00
+rev_034_005,shop_034,,cus_0090,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2025-12-26T12:00:00+07:00
+rev_034_006,shop_034,item_034_006,cus_0079,4,"Vị vừa miệng, giá ổn.",positive,2026-05-30T12:00:00+07:00
+rev_034_007,shop_034,,cus_0046,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-21T12:00:00+07:00
+rev_035_001,shop_035,,cus_0052,4,Shop chuẩn bị nhanh.,positive,2026-02-23T12:00:00+07:00
+rev_035_002,shop_035,item_035_001,cus_0103,5,"Món ngon, giao nhanh.",positive,2026-05-15T12:00:00+07:00
+rev_035_003,shop_035,,cus_0059,5,"Vị vừa miệng, giá ổn.",positive,2026-02-23T12:00:00+07:00
+rev_035_004,shop_035,item_035_003,cus_0106,5,"Món ngon, giao nhanh.",positive,2026-01-13T12:00:00+07:00
+rev_035_005,shop_035,,cus_0074,2,Khẩu phần nhỏ hơn mong đợi.,negative,2026-04-11T12:00:00+07:00
+rev_035_006,shop_035,item_035_005,cus_0067,5,Phần ăn đầy đặn.,positive,2026-03-12T12:00:00+07:00
+rev_035_007,shop_035,item_035_004,cus_0019,5,"Món ngon, giao nhanh.",positive,2026-06-04T12:00:00+07:00
+rev_035_008,shop_035,,cus_0093,5,Shop chuẩn bị nhanh.,positive,2026-01-07T12:00:00+07:00
+rev_035_009,shop_035,item_035_003,cus_0020,4,Shop chuẩn bị nhanh.,positive,2026-05-06T12:00:00+07:00
+rev_036_001,shop_036,item_036_005,cus_0066,1,Khẩu phần nhỏ hơn mong đợi.,negative,2026-05-15T12:00:00+07:00
+rev_036_002,shop_036,item_036_001,cus_0106,5,"Món ngon, giao nhanh.",positive,2026-04-04T12:00:00+07:00
+rev_036_003,shop_036,item_036_004,cus_0099,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-05-12T12:00:00+07:00
+rev_036_004,shop_036,,cus_0114,3,Giá tạm ổn.,neutral,2026-03-18T12:00:00+07:00
+rev_036_005,shop_036,item_036_004,cus_0065,5,"Vị vừa miệng, giá ổn.",positive,2026-03-16T12:00:00+07:00
+rev_036_006,shop_036,item_036_002,cus_0022,5,Phần ăn đầy đặn.,positive,2026-01-22T12:00:00+07:00
+rev_036_007,shop_036,item_036_002,cus_0010,5,Shop chuẩn bị nhanh.,positive,2025-12-18T12:00:00+07:00
+rev_036_008,shop_036,item_036_005,cus_0119,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-01T12:00:00+07:00
+rev_036_009,shop_036,item_036_005,cus_0068,4,Shop chuẩn bị nhanh.,positive,2026-04-09T12:00:00+07:00
+rev_036_010,shop_036,item_036_004,cus_0073,5,"Món ngon, giao nhanh.",positive,2026-05-01T12:00:00+07:00
+rev_037_001,shop_037,,cus_0003,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-10T12:00:00+07:00
+rev_037_002,shop_037,,cus_0055,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-20T12:00:00+07:00
+rev_037_003,shop_037,item_037_001,cus_0098,5,Shop chuẩn bị nhanh.,positive,2026-04-08T12:00:00+07:00
+rev_037_004,shop_037,item_037_002,cus_0080,4,"Vị vừa miệng, giá ổn.",positive,2026-04-20T12:00:00+07:00
+rev_037_005,shop_037,item_037_003,cus_0009,5,"Món ngon, giao nhanh.",positive,2026-01-17T12:00:00+07:00
+rev_037_006,shop_037,item_037_005,cus_0120,4,Shop chuẩn bị nhanh.,positive,2026-02-24T12:00:00+07:00
+rev_037_007,shop_037,item_037_006,cus_0108,5,Phần ăn đầy đặn.,positive,2025-12-29T12:00:00+07:00
+rev_037_008,shop_037,item_037_005,cus_0051,4,Phần ăn đầy đặn.,positive,2026-01-01T12:00:00+07:00
+rev_037_009,shop_037,,cus_0115,4,Shop chuẩn bị nhanh.,positive,2026-05-11T12:00:00+07:00
+rev_038_001,shop_038,item_038_003,cus_0013,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-03-27T12:00:00+07:00
+rev_038_002,shop_038,item_038_002,cus_0059,5,"Vị vừa miệng, giá ổn.",positive,2026-03-09T12:00:00+07:00
+rev_038_003,shop_038,,cus_0040,5,"Món ngon, giao nhanh.",positive,2026-04-05T12:00:00+07:00
+rev_038_004,shop_038,item_038_004,cus_0067,2,Món hơi nguội khi nhận.,negative,2025-12-25T12:00:00+07:00
+rev_038_005,shop_038,item_038_006,cus_0058,5,"Món ngon, giao nhanh.",positive,2026-05-02T12:00:00+07:00
+rev_038_006,shop_038,item_038_005,cus_0032,5,"Món ngon, giao nhanh.",positive,2026-01-06T12:00:00+07:00
+rev_038_007,shop_038,item_038_002,cus_0055,5,Phần ăn đầy đặn.,positive,2026-01-10T12:00:00+07:00
+rev_038_008,shop_038,item_038_004,cus_0087,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-05-03T12:00:00+07:00
+rev_039_001,shop_039,item_039_003,cus_0036,4,"Vị vừa miệng, giá ổn.",positive,2025-12-14T12:00:00+07:00
+rev_039_002,shop_039,item_039_002,cus_0058,3,Giao hơi lâu nhưng vị được.,neutral,2026-03-21T12:00:00+07:00
+rev_039_003,shop_039,item_039_003,cus_0104,4,"Món ngon, giao nhanh.",positive,2026-03-12T12:00:00+07:00
+rev_039_004,shop_039,item_039_003,cus_0032,5,Shop chuẩn bị nhanh.,positive,2025-12-27T12:00:00+07:00
+rev_039_005,shop_039,item_039_006,cus_0083,5,"Món ngon, giao nhanh.",positive,2026-04-15T12:00:00+07:00
+rev_039_006,shop_039,item_039_004,cus_0117,5,"Vị vừa miệng, giá ổn.",positive,2026-03-28T12:00:00+07:00
+rev_040_001,shop_040,item_040_001,cus_0012,4,"Món ngon, giao nhanh.",positive,2026-05-03T12:00:00+07:00
+rev_040_002,shop_040,item_040_004,cus_0029,2,Món hơi nguội khi nhận.,negative,2026-04-17T12:00:00+07:00
+rev_040_003,shop_040,,cus_0059,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-02-20T12:00:00+07:00
+rev_040_004,shop_040,item_040_004,cus_0050,5,Shop chuẩn bị nhanh.,positive,2026-01-12T12:00:00+07:00
+rev_040_005,shop_040,item_040_003,cus_0072,4,"Món ngon, giao nhanh.",positive,2026-02-06T12:00:00+07:00
+rev_040_006,shop_040,item_040_005,cus_0060,3,Giao hơi lâu nhưng vị được.,neutral,2026-05-23T12:00:00+07:00
+rev_040_007,shop_040,item_040_002,cus_0113,5,"Món ngon, giao nhanh.",positive,2026-01-14T12:00:00+07:00
+rev_040_008,shop_040,item_040_006,cus_0004,5,Shop chuẩn bị nhanh.,positive,2026-05-06T12:00:00+07:00
+rev_040_009,shop_040,item_040_003,cus_0102,4,"Món ngon, giao nhanh.",positive,2025-12-20T12:00:00+07:00
+rev_041_001,shop_041,item_041_001,cus_0063,5,"Món ngon, giao nhanh.",positive,2026-03-04T12:00:00+07:00
+rev_041_002,shop_041,item_041_002,cus_0040,4,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-03T12:00:00+07:00
+rev_041_003,shop_041,item_041_001,cus_0070,5,Phần ăn đầy đặn.,positive,2026-01-16T12:00:00+07:00
+rev_041_004,shop_041,,cus_0082,4,Shop chuẩn bị nhanh.,positive,2026-02-21T12:00:00+07:00
+rev_041_005,shop_041,item_041_006,cus_0078,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-02-16T12:00:00+07:00
+rev_041_006,shop_041,item_041_006,cus_0003,5,Phần ăn đầy đặn.,positive,2026-04-11T12:00:00+07:00
+rev_041_007,shop_041,item_041_005,cus_0027,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-06T12:00:00+07:00
+rev_041_008,shop_041,item_041_005,cus_0062,5,"Món ngon, giao nhanh.",positive,2026-04-25T12:00:00+07:00
+rev_041_009,shop_041,item_041_001,cus_0004,5,Phần ăn đầy đặn.,positive,2026-03-01T12:00:00+07:00
+rev_041_010,shop_041,item_041_005,cus_0071,4,"Vị vừa miệng, giá ổn.",positive,2026-01-18T12:00:00+07:00
+rev_042_001,shop_042,item_042_005,cus_0101,4,Phần ăn đầy đặn.,positive,2026-03-14T12:00:00+07:00
+rev_042_002,shop_042,,cus_0118,5,"Món ngon, giao nhanh.",positive,2026-05-10T12:00:00+07:00
+rev_042_003,shop_042,item_042_006,cus_0040,3,Giao hơi lâu nhưng vị được.,neutral,2026-01-15T12:00:00+07:00
+rev_042_004,shop_042,item_042_004,cus_0048,4,"Vị vừa miệng, giá ổn.",positive,2026-03-07T12:00:00+07:00
+rev_042_005,shop_042,item_042_005,cus_0098,3,"Món ổn, không quá đặc biệt.",neutral,2026-04-08T12:00:00+07:00
+rev_042_006,shop_042,item_042_002,cus_0040,5,Phần ăn đầy đặn.,positive,2026-03-19T12:00:00+07:00
+rev_042_007,shop_042,,cus_0073,4,"Món ngon, giao nhanh.",positive,2026-02-25T12:00:00+07:00
+rev_042_008,shop_042,item_042_002,cus_0119,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-05-27T12:00:00+07:00
+rev_043_001,shop_043,,cus_0038,4,"Món ngon, giao nhanh.",positive,2026-01-14T12:00:00+07:00
+rev_043_002,shop_043,item_043_001,cus_0025,4,Shop chuẩn bị nhanh.,positive,2026-05-11T12:00:00+07:00
+rev_043_003,shop_043,item_043_005,cus_0057,5,Shop chuẩn bị nhanh.,positive,2026-04-02T12:00:00+07:00
+rev_043_004,shop_043,item_043_002,cus_0035,5,Shop chuẩn bị nhanh.,positive,2026-01-20T12:00:00+07:00
+rev_043_005,shop_043,,cus_0076,4,"Món ngon, giao nhanh.",positive,2026-01-29T12:00:00+07:00
+rev_043_006,shop_043,,cus_0021,5,Shop chuẩn bị nhanh.,positive,2026-05-30T12:00:00+07:00
+rev_044_001,shop_044,item_044_006,cus_0047,1,Món hơi nguội khi nhận.,negative,2026-01-12T12:00:00+07:00
+rev_044_002,shop_044,,cus_0106,5,"Đóng gói sạch sẽ, sẽ đặt lại.",positive,2026-04-13T12:00:00+07:00
+rev_044_003,shop_044,item_044_003,cus_0052,4,"Vị vừa miệng, giá ổn.",positive,2026-03-05T12:00:00+07:00
+rev_044_004,shop_044,item_044_006,cus_0043,5,"Vị vừa miệng, giá ổn.",positive,2026-02-04T12:00:00+07:00
+rev_044_005,shop_044,,cus_0071,5,"Món ngon, giao nhanh.",positive,2026-05-03T12:00:00+07:00
+rev_044_006,shop_044,item_044_001,cus_0018,4,"Vị vừa miệng, giá ổn.",positive,2026-04-30T12:00:00+07:00
+rev_044_007,shop_044,item_044_003,cus_0045,4,"Vị vừa miệng, giá ổn.",positive,2025-12-28T12:00:00+07:00
+rev_044_008,shop_044,item_044_001,cus_0098,5,"Vị vừa miệng, giá ổn.",positive,2026-01-26T12:00:00+07:00

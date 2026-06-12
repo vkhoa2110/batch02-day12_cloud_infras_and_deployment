@@ -1,0 +1,9 @@
+﻿id,intent_name,sample_user_message,filter_json,ranking_json
+intent_budget_under_50k,budget_meal,Gợi ý món dưới 50k gần tôi,"{""max_effective_price"": 50000, ""is_available"": 1, ""shop_status"": ""open""}","{""recommendation_score"": ""desc"", ""effective_price"": ""asc""}"
+intent_healthy,healthy_food,Tôi muốn ăn món healthy ít dầu mỡ,"{""include_tags"": [""healthy"", ""ít dầu mỡ""], ""max_calories_estimate"": 650}","{""item_rating"": ""desc"", ""calories_estimate"": ""asc""}"
+intent_spicy_dinner,spicy_food,Có món nào cay cay ăn tối không?,"{""min_spicy_level"": 3, ""include_tags"": [""ăn tối"", ""cay""]}","{""item_sold_count"": ""desc"", ""recommendation_score"": ""desc""}"
+intent_fast_delivery,fast_delivery,Món nào giao nhanh nhất?,"{""max_avg_delivery_time_min"": 20, ""is_available"": 1}","{""avg_delivery_time_min"": ""asc"", ""recommendation_score"": ""desc""}"
+intent_vegetarian,vegetarian,"Tôi ăn chay, gợi ý vài món ngon","{""include_tags"": [""chay""], ""exclude_allergens"": [""hải sản"", ""cá""]}","{""item_rating"": ""desc""}"
+intent_no_seafood,avoid_allergen,"Tôi dị ứng hải sản, đừng gợi ý hải sản","{""exclude_allergens"": [""hải sản""], ""is_available"": 1}","{""recommendation_score"": ""desc""}"
+intent_group_order,group_order,Tôi đặt món cho nhóm 3 người,"{""include_tags"": [""ăn nhóm"", ""combo""], ""min_portion_people"": 2}","{""effective_price"": ""asc"", ""item_sold_count"": ""desc""}"
+intent_breakfast,breakfast,Sáng nay ăn gì nhanh gọn?,"{""include_tags"": [""ăn sáng"", ""giao nhanh""], ""max_avg_delivery_time_min"": 25}","{""avg_delivery_time_min"": ""asc"", ""item_rating"": ""desc""}"

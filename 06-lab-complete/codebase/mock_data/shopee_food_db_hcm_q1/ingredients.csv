@@ -1,0 +1,53 @@
+﻿id,name,ingredient_type
+ing_0001,cơm,base
+ing_0002,sườn heo,protein
+ing_0003,rau thơm,base
+ing_0004,sốt nhà làm,base
+ing_0005,trứng,protein
+ing_0006,cua,protein
+ing_0007,thịt heo,protein
+ing_0008,đồ uống,base
+ing_0009,bún,base
+ing_0010,bò,protein
+ing_0011,heo,protein
+ing_0012,gà,protein
+ing_0013,phô mai,base
+ing_0014,cá hồi,protein
+ing_0015,cá,protein
+ing_0016,rau xanh,base
+ing_0017,đậu gà,base
+ing_0018,bơ,base
+ing_0019,mì,base
+ing_0020,hải sản,protein
+ing_0021,ăn vặt,base
+ing_0022,bánh mì,base
+ing_0023,pate,base
+ing_0024,bánh phở,base
+ing_0025,món thêm,base
+ing_0026,tôm,protein
+ing_0027,pizza,base
+ing_0028,combo,base
+ing_0029,canh,base
+ing_0030,nấm,base
+ing_0031,rau củ,base
+ing_0032,đậu hũ,base
+ing_0033,dimsum,base
+ing_0034,trà sữa,base
+ing_0035,trà trái cây,base
+ing_0036,topping,base
+ing_0037,cháo,base
+ing_0038,xôi,base
+ing_0039,wrap,base
+ing_0040,ốc,base
+ing_0041,tráng miệng,base
+ing_0042,cà phê,base
+ing_0043,cuốn,base
+ing_0044,mì ramen,base
+ing_0045,curry,base
+ing_0046,súp,base
+ing_0047,salad,base
+ing_0048,hủ tiếu,base
+ing_0049,mực,protein
+ing_0050,bánh khọt,base
+ing_0051,sandwich,base
+ing_0052,bánh ngọt,base

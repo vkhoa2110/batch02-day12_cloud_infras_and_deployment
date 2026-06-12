@@ -27,12 +27,11 @@ from fastapi import FastAPI, HTTPException, Security, Depends, Request, Response
 from fastapi.security.api_key import APIKeyHeader
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
+from starlette.concurrency import run_in_threadpool
 import uvicorn
 
 from app.config import settings
-
-# Mock LLM (thay bằng OpenAI/Anthropic khi có API key)
-from utils.mock_llm import ask as llm_ask
+from app.food_agent import run_shopee_food_agent
 
 # ─────────────────────────────────────────────────────────
 # Logging — JSON structured
@@ -145,7 +144,8 @@ async def request_middleware(request: Request, call_next):
         # Security headers
         response.headers["X-Content-Type-Options"] = "nosniff"
         response.headers["X-Frame-Options"] = "DENY"
-        response.headers.pop("server", None)
+        if "server" in response.headers:
+            del response.headers["server"]
         duration = round((time.time() - start) * 1000, 1)
         logger.info(json.dumps({
             "event": "request",
@@ -162,15 +162,44 @@ async def request_middleware(request: Request, call_next):
 # ─────────────────────────────────────────────────────────
 # Models
 # ─────────────────────────────────────────────────────────
+class ChatHistoryMessage(BaseModel):
+    role: str
+    content: str
+    recommendation_item_ids: list[str] = Field(default_factory=list)
+
+
 class AskRequest(BaseModel):
     question: str = Field(..., min_length=1, max_length=2000,
-                          description="Your question for the agent")
+                          description="Your question for the food recommendation agent")
+    user_id: str = Field("default", min_length=1, max_length=120)
+    history: list[ChatHistoryMessage] = Field(default_factory=list)
+
+
+class RecommendationItem(BaseModel):
+    item_id: str
+    item_name: str
+    shop_name: str
+    category_name: str
+    effective_price: int
+    delivery_fee: int
+    total_price: int
+    delivery_time_min: int
+    item_rating: float
+    shop_rating: float
+    spicy_level: int
+    score: float
+    reasons: list[str] = Field(default_factory=list)
 
 class AskResponse(BaseModel):
     question: str
     answer: str
     model: str
     timestamp: str
+    agent: str
+    mode: str
+    intent: dict
+    warnings: list[str] = Field(default_factory=list)
+    recommendations: list[RecommendationItem] = Field(default_factory=list)
 
 # ─────────────────────────────────────────────────────────
 # Endpoints
@@ -187,6 +216,7 @@ def root():
             "health": "GET /health",
             "ready": "GET /ready",
         },
+        "agent": "ShopeeFood recommendation chatbot",
     }
 
 
@@ -214,7 +244,14 @@ async def ask_agent(
         "client": str(request.client.host) if request.client else "unknown",
     }))
 
-    answer = llm_ask(body.question)
+    agent_result = await run_in_threadpool(
+        run_shopee_food_agent,
+        body.question,
+        conversation_history=[
+            history_message.model_dump() for history_message in body.history[-10:]
+        ],
+    )
+    answer = agent_result["answer"]
 
     output_tokens = len(answer.split()) * 2
     check_and_record_cost(0, output_tokens)
@@ -224,6 +261,11 @@ async def ask_agent(
         answer=answer,
         model=settings.llm_model,
         timestamp=datetime.now(timezone.utc).isoformat(),
+        agent="shopeefood-recommendation",
+        mode=agent_result["mode"],
+        intent=agent_result["intent"],
+        warnings=agent_result["warnings"],
+        recommendations=agent_result["recommendations"],
     )
 
 
@@ -231,7 +273,10 @@ async def ask_agent(
 def health():
     """Liveness probe. Platform restarts container if this fails."""
     status = "ok"
-    checks = {"llm": "mock" if not settings.openai_api_key else "openai"}
+    checks = {
+        "agent": "shopeefood-recommendation",
+        "llm": "offline_rules" if not settings.openai_api_key else "openai",
+    }
     return {
         "status": status,
         "version": settings.app_version,

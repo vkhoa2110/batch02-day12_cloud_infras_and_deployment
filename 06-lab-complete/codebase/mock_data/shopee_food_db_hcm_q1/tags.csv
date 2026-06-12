@@ -1,0 +1,102 @@
+﻿id,name,tag_type
+tag_001,bbq,item
+tag_002,bento,item
+tag_003,brunch,occasion
+tag_004,burger,item
+tag_005,bán chạy,system
+tag_006,bánh canh,item
+tag_007,bánh ngọt,item
+tag_008,bánh xèo,item
+tag_009,béo,taste
+tag_010,bò né,item
+tag_011,bún,item
+tag_012,bún cá,item
+tag_013,bún riêu,item
+tag_014,bún đậu,item
+tag_015,cafe,item
+tag_016,cao cấp,system
+tag_017,cay,taste
+tag_018,chay,diet
+tag_019,chua cay,taste
+tag_020,chua ngọt,taste
+tag_021,cháo,item
+tag_022,combo,system
+tag_023,curry,item
+tag_024,cà phê,item
+tag_025,cơm,item
+tag_026,cơm gà,item
+tag_027,cơm nhà,item
+tag_028,cơm trộn,item
+tag_029,cơm văn phòng,item
+tag_030,detox,diet
+tag_031,dimsum,item
+tag_032,dễ ăn,taste
+tag_033,fast food,item
+tag_034,gia đình,occasion
+tag_035,giao nhanh,system
+tag_036,giòn,taste
+tag_037,giải khát,item
+tag_038,gỏi cuốn,item
+tag_039,healthy,diet
+tag_040,hải sản,item
+tag_041,hủ tiếu,item
+tag_042,kebab,item
+tag_043,không cay,item
+tag_044,lẩu,item
+tag_045,mexico,item
+tag_046,mì cay,item
+tag_047,mì quảng,item
+tag_048,mì trộn,item
+tag_049,món Bắc,item
+tag_050,món Hoa,item
+tag_051,món Hàn,item
+tag_052,món Nhật,item
+tag_053,món Thái,item
+tag_054,món Trung,item
+tag_055,món Việt,item
+tag_056,món cay,taste
+tag_057,món nước,item
+tag_058,món phụ,item
+tag_059,món Ấn,item
+tag_060,ngọt,taste
+tag_061,ngọt nhẹ,taste
+tag_062,no lâu,item
+tag_063,nướng,item
+tag_064,phô mai,item
+tag_065,phù hợp chatbot,system
+tag_066,phở,item
+tag_067,pizza,item
+tag_068,protein cao,diet
+tag_069,ramen,item
+tag_070,rất cay,taste
+tag_071,rẻ,system
+tag_072,salad,item
+tag_073,sandwich,item
+tag_074,signature,system
+tag_075,sushi,item
+tag_076,taco,item
+tag_077,thanh mát,taste
+tag_078,topping,system
+tag_079,trà sữa,item
+tag_080,tráng miệng,item
+tag_081,tươi,item
+tag_082,vừa cay,taste
+tag_083,wrap,item
+tag_084,xôi,item
+tag_085,ít cay,taste
+tag_086,ít dầu mỡ,diet
+tag_087,ít tinh bột,diet
+tag_088,ăn khuya,occasion
+tag_089,ăn kiêng,item
+tag_090,ăn nhóm,occasion
+tag_091,ăn nhẹ,item
+tag_092,ăn sáng,occasion
+tag_093,ăn trưa,occasion
+tag_094,ăn tối,occasion
+tag_095,ăn vặt,occasion
+tag_096,đang giảm giá,system
+tag_097,đậm vị,taste
+tag_098,đồ chiên,item
+tag_099,đồ uống,item
+tag_100,ấm bụng,taste
+tag_101,ốc,item
